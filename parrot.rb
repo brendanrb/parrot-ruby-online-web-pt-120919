@@ -3,7 +3,5 @@
 
 def parrot(sound="Squawk")
 
-
+#{parrot}
 end
-
-parrot
