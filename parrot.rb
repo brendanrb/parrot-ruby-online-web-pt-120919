@@ -5,9 +5,3 @@ def parrot(phrase="Squawk!")
 return #{phrase}
 end
 
-
-parrot
-
-return parrot
-
-return parrot("Pretty bird!")
