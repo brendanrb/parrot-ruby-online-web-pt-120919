@@ -10,4 +10,4 @@ parrot
 
 return parrot
 
-return parrot("Prety bird!")
+return parrot("Pretty bird!")
